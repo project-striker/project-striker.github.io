@@ -33,5 +33,4 @@ MathJax = {
     - Can be used analytically
 
 **IE definitions**
-- First IE
-    - \[\Delta H_{i1}: X_{(g)} \rightarrow X^+_{(g)} + e^-\]
+- First IE: \[\Delta H_{i1}: X_{(g)} \rightarrow X^+_{(g)} + e^-\]
