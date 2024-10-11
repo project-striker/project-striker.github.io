@@ -28,23 +28,33 @@ MathJax = {
     - $2x$ would be the rule (multiply the input by two)
 - So, if $x=3$, the expression would be $f(3)=2(3)$
     - The result of the function could be written as $f(3)=6$
-- In conclusion, functions is all about **substituting** the value of $x$ with the given input.
+- In conclusion, functions is all about **substituting** the variable with the given input.
 
 **Mapping**
 - In essence, mapping is like matching things up. You take one thing and find its match in another place.
 - Types of mapping:
 \
 \
-  ![Types of mapping](/images/mathematics/types%20of%20mapping.png)
-- The set of **possible inputs is called a domain**, whereas the set of **possible output is known as a range**
-- Function is mapped only by **many to one** or **one to one**
+![Types of mapping](/images/mathematics/types%20of%20mapping.png)
+- Functions are either **one-to-one** or **more-to-one** mapping.
 \
 \
 ![Function mapping](/images/mathematics/function%20mapping.png)
-- Possible graphs of a function
-\
-\
-![Function graph](/images/mathematics/function%20graph1.png)
-![Also a function graph](/images/mathematics/function%20graph2.png)
+
 **Domain and Range of Linear Equations**
-- Linear equations are equations that form a straight line on the graph.
+- A **domain** is a set of **possible inputs.**
+- A **range** is a set of **possible outputs from the inputs.**
+
+**Finding range in a linear function**
+- If the **gradient is positive**
+  - Input the boundaries in the equation. 
+  - After you get the output, copy the placement of the variable, the inequality symbols, and input however change it from $x$ to $f(x)$, and write the output instead of the input.
+- If the **gradient is negative**
+  - Do the same as finding range in a positive gradient, however, reverse the direction of the inequality symbol.
+  - If the range has two boundaries, reverse the placement of the outputs instead of changing the direction of the inequality symbol.
+
+**Finding range in a quadratic function**
+- Note that you need to convert the quadratic functions to $\pm a(x-b)^2+c$ form.
+- If $a$ is positive (smiley face), $f(x)>$
+- If $a$ is negative (sad face), $f(x)<$
+- If it passes the minimum/maximum point, use $\ge$ or $\le$
