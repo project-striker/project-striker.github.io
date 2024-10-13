@@ -6,14 +6,19 @@
 - Business objectives
 
 #### Business objectives
-**8 most common business objectives**
-- [placeholder]
+**Most common business objectives**
+- Profit maximisation
+- Profit satisficing
+- Increasing market share
+- Increasing short term revenue
+- Increasing shareholder value
+- Corporate Social Responsibility (CSR)
 
 **Objectives of social enterprises**
 - They commonly share these three objectives that are also known as the **triple bottom line**
     - **Environmental** &rarr; to protect the environment
     - **Social** &rarr; creating job opportunities and providing help for the disadvantaged groups in society
-    - **Economic** &rarr; 
+    - **Economic** &rarr; to make a profit and re invest a share of it back into the business.
 
 **SMART objectives**
 - <u>S</u>pecific
