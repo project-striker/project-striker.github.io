@@ -20,3 +20,6 @@
 ### See an issue?
 - Create bug reports [here](https://github.com/project-striker/project-striker.github.io/issues)
 - Don't have a GitHub account? Contact me through WhatsApp: 081111800351
+
+### More info
+[About this website](./about.md)
