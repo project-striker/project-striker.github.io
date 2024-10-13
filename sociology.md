@@ -3,6 +3,6 @@
 ## Term 2
 
 ### Topics
-- Functions of education
+- Education
 
 #### Functions of education
