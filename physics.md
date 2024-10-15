@@ -15,4 +15,13 @@ MathJax = {
 ## Term 2
 
 ### Topics
-- Experiments related to free fall
+- Vertical motion equation
+- Dynamics
+  - Forces and free body diagram
+
+#### Vertical motion equation
+**General overview**
+- It shares formulas together with horizontal motion equation
+| Uniformly accelerated motion | Vertical motion |
+| :--------------------------- | :-------------- |
+| $v=u+at$                     | $v=u+gt$        |
