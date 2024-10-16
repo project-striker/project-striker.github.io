@@ -22,8 +22,10 @@ MathJax = {
 #### Vertical motion equation
 **General overview**
 - It shares formulas together with horizontal motion equation
-\
-\
-| Uniformly accelerated motion | Vertical motion |
-| :--------------------------- | :-------------- |
-| $v=u+at$                     | $v=u+gt$        |
+
+| Horizontal motion equation | Vertical motion equation |
+| :------------------------: | :----------------------: |
+|          $v=u+at$          |         $v=u+gt$         |
+|   $d=\frac{1}{2}(v+u)t$    |  $h=\frac{1}{2}(v+u)t$   |
+|   $d=ut+\frac{1}{2}at^2$   |  $h=ut+\frac{1}{2}gt^2$  |
+|       $v^2=u^2+2ad$        |      $v^2=u^2+2gh$       |
