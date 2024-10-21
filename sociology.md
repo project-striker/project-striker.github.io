@@ -58,12 +58,13 @@ Moreover, schools act as an agency of social control - the behavior of children 
 
 **Education and social mobility**
 
-<u>**Functionalists**</u> believe education allows social mobility. <u>If</u> there is <u>equal opportunity</u>, meaning **socio-economic background is eliminated**, the true level of individuals **based on their abilities and effort can be reached.** This is known as <u>**meritocracy**</u>. Functionalists believe that the education system is fair because it is based on shared values.
+**Functionalists** believe education allows social mobility. <u>If</u> there is <u>equal opportunity</u>, meaning **socio-economic background is eliminated**, the true level of individuals **based on their abilities and effort can be reached.** This is known as **meritocracy**. Functionalists believe that the education system is fair because it is based on shared values.
 
 However, according to <u>**Marxists**,</u> social class, gender, and ethnicity play a bigger part than meritocracy. Thus, schools produce ascribed inequalities. Wealthier parents are able to provide their children with advantages by throwing money at, example, private tutors. Those students have sponsor mobility, while less fortunate students lack social and cultural capital. Marxists see mobility as a safety valve: The brightest working class people are recruited to be part of the ruling class, so that potential leaders of the working class are eliminated, making revolution less likely.
 
 **How “internal” and “external” factors affect achievements in school**
-- Social class (as an external factor) and internal factors
+
+Social class (as an external factor) and internal factors
 
 Working class underachievement largely focuses on the nature of society (the macro scale). They may lack the cash to afford resources such as private tutors which gives wealthier students a head start. However, school factors are also important. In a study by Micheal Rutter and colleagues, good schools can turn the life chances of students for the better. These positive features include
 - Well trained teachers who lead by example, have an exemplary personality and can care for as well as make students motivated. 
