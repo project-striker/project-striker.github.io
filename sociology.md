@@ -7,6 +7,8 @@
 
 #### Education
 
+**Important message from the developers!** Do note that this is the best, summarised form of the topic and it is quite hard to summarise the substance further beyond this point. Readers are also encouraged to read from the book to prevent any misinformation. Goodluck everyone!
+
 **Introduction**
 
 For most of history, children learnt what they needed from the families and community by for example, listening to stories. This is known as informal education. That was before formal education, a new style of education with schools and colleges. Although formal education is "dominant", informal education still continues - the ones outside the classroom. A part of informal education can be seen in the hidden curriculum. Education is an agency of secondary socialization - a period of socialization after primary socialization. Children do not only learn about the lessons but also social expectations.
@@ -53,3 +55,19 @@ Moreover, schools act as an agency of social control - the behavior of children 
         - Girls are taught different knowledge (e.g they might be discouraged from taking harder subjects) 
         - Teachers have high hopes for boys while they assume that the future of girls is domestic work.
         - Head teachers and senior staff are often male, giving the impression that men are suited for leadership roles.
+
+**Education and social mobility**
+
+<u>**Functionalists**</u> believe education allows social mobility. <u>If</u> there is <u>equal opportunity</u>, meaning **socio-economic background is eliminated**, the true level of individuals **based on their abilities and effort can be reached.** This is known as <u>**meritocracy**</u>. Functionalists believe that the education system is fair because it is based on shared values.
+
+However, according to <u>**Marxists**,</u> social class, gender, and ethnicity play a bigger part than meritocracy. Thus, schools produce ascribed inequalities. Wealthier parents are able to provide their children with advantages by throwing money at, example, private tutors. Those students have sponsor mobility, while less fortunate students lack social and cultural capital. Marxists see mobility as a safety valve: The brightest working class people are recruited to be part of the ruling class, so that potential leaders of the working class are eliminated, making revolution less likely.
+
+**How “internal” and “external” factors affect achievements in school**
+- Social class (as an external factor) and internal factors
+
+Working class underachievement largely focuses on the nature of society (the macro scale). They may lack the cash to afford resources such as private tutors which gives wealthier students a head start. However, school factors are also important. In a study by Micheal Rutter and colleagues, good schools can turn the life chances of students for the better. These positive features include
+- Well trained teachers who lead by example, have an exemplary personality and can care for as well as make students motivated. 
+- Empowerment of students such as assigning of leadership roles to them (e.g student council)
+- Presence of high achievers who can help other students
+
+According to research, what happens in classrooms is a major contributor to underachievement. An example can be seen in stereotyping, or labeling, which in this case is based on social class. For example, teachers may see them as lazy or deviant. This can of course demotivate students, making them less likely to succeed in the world of education. This is called the (negative) self-fulfilling prophecy. However, if the student shows a performance opposite of this label, it can be called the self-negating prophecy.
