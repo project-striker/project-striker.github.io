@@ -19,7 +19,7 @@
 - **Increasing market share** &rarr; increasing the proportion is sales a business has relative to the market it is operating in.
 - **Survival** &rarr; keeping the business up after its newly formed or when e.g. an economic crisis happens.
 - <abbr title="Corporate Social Responsibility">**CSR**</abbr> &rarr; Considering the interests of society and the environment.
-- **Maximising short term revenue** &rarr;
+- **Maximising short-term revenue** &rarr; Maximising the amount of cash from sales.
 - **Increasing shareholder value** &rarr; maximising returns (dividends) to shareholders and increasing share prices.
 
 **Objectives of Social Enterprise**
